@@ -12,6 +12,7 @@ public class ArrayListTest
    public static void main(String[] args)
    {
 	private String comment2;	//added for merge with main
+	private String comment3;	//added for merge with main
       // fill the staff array list with three Employee objects
       var staff = new ArrayList<Employee>();
 
